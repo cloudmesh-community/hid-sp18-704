@@ -1,0 +1,41 @@
+% This file was created with JabRef 2.10.
+% Encoding: UTF8
+
+
+@Electronic{Netflix,
+  Title                    = {Introducing Atlas: Netflix’s Primary Telemetry Platform},
+  Author                   = {Brian Harrington, Roy Rapoport},
+  Month                    = {December},
+  Organization             = {Netflix Technology Blog},
+  Url                      = {https://medium.com/netflix-techblog/introducing-atlas-netflixs-primary-telemetry-platform-bd31f4d8ed9a},
+  Year                     = {2014}
+}
+
+@Electronic{Madrigal,
+  Title                    = {How Netflix Reverse Engineered Hollywood},
+  Author                   = {Alexis C. Madrigal},
+  Language                 = {English},
+  Month                    = {January},
+  Organization             = {The Atlanitic},
+  Url                      = {https://www.theatlantic.com/technology/archive/2014/01/how-netflix-reverse-engineered-hollywood/282679/},
+  Year                     = {2014}
+}
+
+@Electronic{Marr,
+  Title                    = {Big Data: How Netflix Uses It to Drive Business Success},
+  Author                   = {Bernard Marr},
+  Language                 = {English},
+  Month                    = {August},
+  Organization             = {Smart Data Collective},
+  Url                      = {https://www.smartdatacollective.com/big-data-how-netflix-uses-it-drive-business-success/},
+  Year                     = {2015}
+}
+
+@Electronic{Simon,
+  Title                    = {Big Data Lessons From Netflix},
+  Author                   = {Phil Simon},
+  Month                    = {March},
+  Url                      = {https://www.wired.com/insights/2014/03/big-data-lessons-netflix/},
+  Year                     = {2014}
+}
+
