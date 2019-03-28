@@ -1,4 +1,4 @@
-#Big Data in Oceanography
+# Big Data in Oceanography
 ---
 |Zachary Meier
 |zrmeier@indiana.edu   
@@ -8,12 +8,12 @@
 ---
 
 
-##Abstract:
+## Abstract:
 This paper will give an overview of how big data is used to collect and
 process data about our oceans in better ways to understand it and how to
 solve complex issues surrounding it.
 
-##Introduction
+## Introduction
 
 
 Ever since man as first seen the ocean, it has always had an air of
@@ -86,7 +86,7 @@ right questions. With the oceans being the least explored and mysterious
 place on earth we are very unsure how the system works as a whole and
 the cause and effect major events have on it.
 
-##Problems the Ocean Faces
+## Problems the Ocean Faces
 
 
 The ocean, is a big an complex ecosystem, no only that, but is rather
@@ -105,8 +105,7 @@ most pressing issues as of right now but there are many more. With the
 use of big data and collection through the sensor above we can start
 learning how to take action and where.
 
-##Collection Efforts
-
+## Collection Efforts
 
 As of right now the collection of data is not a collective effort
 globally. [@Delgnrain] However there are many organizations that are
@@ -130,7 +129,7 @@ help prevent major disasters by helping cities, states, countries be
 prepared for hurricanes weeks in advanced. It would allow us to see how
 events in different parts of the globe would have an effect elsewhere.
 
-##The Data
+## The Data
 
 
 As with any situation where massive amounts of data are involved, things
@@ -144,7 +143,7 @@ this fact, it is hard to collect data for the ocean as a whole. At least
 for right now. However, it is possible to get fairly reliable data for a
 set area.
 
-##Integration
+## Integration
 
 Making sense of all this data is the main issue that most scientist
 face. So integration is a primary concern. When modeling the data
@@ -157,7 +156,7 @@ mapping of a given location. [@Liu2016] This is just a small example of
 the amount of effort to pull all the data together to produce
 visualization of those results
 
-##Solutions
+## Solutions
 
 Though the efforts have not come together globally as of yet, plans to
 make that happen are in motion. Just this June, the United Nations met
@@ -168,7 +167,7 @@ an understanding that be every country will to be accountable for some
 part of the oceans health. And encourage international cooperation to
 help solve our biggest issues.
 
-##Hopeful Future
+## Hopeful Future
 
 At this point there is no clear cut solution to solve all issues that
 face our oceans. And we may never collect all the data that we need to
@@ -181,4 +180,3 @@ The authors would like to thank Professor Gregor von Laszewski and all
 the TA's for their help. As well as other students and their
 contribution to collective learning.
 
-# References
