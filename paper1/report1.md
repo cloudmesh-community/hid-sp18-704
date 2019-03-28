@@ -2,13 +2,13 @@
 bibliography: 'report.bib'
 ---
 
-#Big Data in Oceanography
+\#Big Data in Oceanography
 --------------------------
 
-|Zachary Meier |zrmeier@indiana.edu\
-|Indiana University Bloomington |hid: hid-sp18-704 |github:
+|Zachary Meier |zrmeier@indiana.edu
+|Indiana University, Bloomington |hid: hid-sp18-704 |github:
 [:cloud:](https://github.com/cloudmesh-community/hid-sp18-704/blob/master/paper1/report.md)
----
+
 
 ##Abstract: This paper will give an overview of how big data is used
 to collect and process data about our oceans in better ways to
