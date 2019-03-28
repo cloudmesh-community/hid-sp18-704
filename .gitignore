@@ -117,3 +117,5 @@ target/
 paper/report.pdf
 
 
+*.bak
+*.sav
