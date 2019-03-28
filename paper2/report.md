@@ -1,23 +1,25 @@
+#Netflix use of Big Data Visualization
+
 ---
-abstract: |
-    When you think of Netflix you probably don't think about big data. You
-    think about streaming videos and being watching the newest series. How
-    they keep you watching and a happy customer is through their use of big
-    data. Not only does Netflix use big data for their external customers
-    they use it for their internal customers. Netflix use of big data
-    analytics has given them strong customer insight and internal
-    applications to help keep their systems up and running and striving for
-    the four nines availability. The uptime of 99.99% which they strive for
-    and have tried to uphold very well.
-author:
-- Zachary Meier
-bibliography:
-- 'report.bib'
-title: Netflix use of Big Data Visualization
+|Zachary Meier
+|zrmeier@indiana.edu   
+|Indiana University, Bloomington
+|hid: hid-sp18-704
+|github: [:cloud:](https://github.com/cloudmesh-community/hid-sp18-704/tree/master/paper2) 
 ---
 
-Introduction
-============
+##Abstract: 
+When you think of Netflix you probably don't think about big data. You
+think about streaming videos and being watching the newest series. How
+they keep you watching and a happy customer is through their use of big
+data. Not only does Netflix use big data for their external customers
+they use it for their internal customers. Netflix use of big data
+analytics has given them strong customer insight and internal
+applications to help keep their systems up and running and striving for
+the four nines availability. The uptime of 99.99% which they strive for
+and have tried to uphold very well.
+
+##Introduction
 
 Netflix was once a small start up company, trying to compete with
 Blockbuster and Hollywood Video. It's main goal was to allow customers
@@ -28,8 +30,7 @@ turned out to be a failure, but then they started to see the value in
 streaming, and started to allocate major resources in that direction.
 From there they became a big data giant in the movie streaming business.
 
-Brief History
-=============
+##Brief History
 
 There is no doubt you have not heard of Netflix, but their climb to
 where they are now has been a journey of failure and strife. Netflix
@@ -50,8 +51,8 @@ They plan to dedicate 1 billion dollars to acquiring new customers. It
 is uncertain what the future hold for Netflix but one can bet that it
 will involve big data, and that is what will drive them forward.[@Marr]
 
-The Revolution of the Genre
-===========================
+##The Revolution of the Genre
+
 
 If someone wanted to count how many genres were out there for movies,
 they would be able to count it easily. However, when Netflix was looking
@@ -61,8 +62,8 @@ of simplistic genres of the past created by Hollywood. Now are the days
 of 76,897 to categorize movies according to Netflix. [@Madrigal] Soon
 this grew into much more.
 
-The Netflix Quantum Theory
---------------------------
+##The Netflix Quantum Theory
+
 
 This was a document in which was created to come up with a method of
 tagging movies with genres. In this case they were called micro genres.
@@ -74,8 +75,7 @@ Quantum Theory Generator would produce something like that to get people
 to watch it. This is the basis for their predictive algorithm which they
 are always fine tuning to provide value to their customers.
 
-Internal Use of Big Data
-========================
+##Internal Use of Big Data
 
 Their is no doubt of use for big data to help customers find the movies
 they would like to watch. However that is only one side of the issue.
@@ -90,8 +90,7 @@ overwhelming size and use of data, Netflix had to get creative and start
 thinking on better ways to collect and push this data across all their
 internal teams to produce a company that works in harmony.
 
-Atlas
------
+##Atlas
 
 Atlas is essentially the monitoring tool that Netflix uses to make their
 operation work. They implemented this system back in 2013 and it has
@@ -102,8 +101,8 @@ kept in memory so it as easily accessible so as not have to access a
 database and slow down the process. This allows the data to be pulled
 quickly from many different services that demand the data. [@Netflix]
 
-Visualization
--------------
+##Visualization
+
 
 It is one thing to understand the data from a mathematical and
 theoretical level. However that only helps those who are easily
@@ -129,8 +128,8 @@ typography. They can usually those data points to help pick the best
 picture to have people watch that show. That is one of the key drivers
 for why their business has continued to flourish.
 
-Micro services
---------------
+##Micro services
+
 
 Not only does all of this data help identify shows customer want to
 watch by informing the employee, but it also helps them run a better
@@ -145,8 +144,8 @@ production under load. These then allow them to get data back on how the
 system performed and how to fix it without actually breaking anything at
 all.
 
-Conclusion
-==========
+##Conclusion
+
 
 In conclusion, this is only a small view of what makes Netflix a Big
 Data giant. They have faced many other issues in the past and over come
@@ -160,5 +159,6 @@ not the will get to the level of Netflix is possible, but the real
 question is, by the time they get to that level, where will Netflix
 be?[@Evans]
 
+##Acknowledgments
 The authors would like to thank Dr. Gregor von Laszewski and the TA's
 for their help and support.
