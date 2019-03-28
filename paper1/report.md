@@ -4,8 +4,9 @@
 |zrmeier@indiana.edu   
 |Indiana University, Bloomington
 |hid: hid-sp18-704
-|github: [:cloud:](https://github.com/cloudmesh-community/hid-sp18-704/tree/master/paper1) 
+|github: [:cloud:](https://github.com/cloudmesh-community/hid-sp18-704/blob/master/paper1/report.md) 
 ---
+
 
 ##Abstract:
 This paper will give an overview of how big data is used to collect and
