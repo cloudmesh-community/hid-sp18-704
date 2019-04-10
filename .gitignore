@@ -41,7 +41,6 @@ dest
 *.cb2
 *.lb
 *--
-*.tex
 
 .idea
 # Byte-compiled / optimized / DLL files
@@ -118,7 +117,3 @@ target/
 paper/report.pdf
 
 
-*.bak
-*.sav
-*.sav
-*.sav
