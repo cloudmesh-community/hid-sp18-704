@@ -1,12 +1,11 @@
 # Big Data in Oceanography
----
+
 |Zachary Meier
 |zrmeier@indiana.edu   
 |Indiana University, Bloomington
 |hid: hid-sp18-704
-|github: [:cloud:](https://github.com/cloudmesh-community/hid-sp18-704/blob/master/paper1/report.md) 
+|github: https://github.com/cloudmesh-community/hid-sp18-704/blob/master/paper1/report.md
 ---
-
 
 ## Abstract:
 This paper will give an overview of how big data is used to collect and
@@ -14,7 +13,6 @@ process data about our oceans in better ways to understand it and how to
 solve complex issues surrounding it.
 
 ## Introduction
-
 
 Ever since man as first seen the ocean, it has always had an air of
 mystery to it. Even now in the age of information, we still barely know
@@ -26,54 +24,54 @@ use of many different sensors. [@NOAA]
 
 **Acoustic Doppler Current Profiler:**
 
-This tool measures the speed and direction of ocean currents using
+* This tool measures the speed and direction of ocean currents using
 the principle of Doppler shift. Measuring currents is a fundamental
 practice of physical oceanographers.
 
 **Technologies for Ocean Acoustic Monitoring:**
 
-This technology listens to the ocean for all sounds, boats, sea
+* This technology listens to the ocean for all sounds, boats, sea
 animals, waves, siezmic activity.
 
 **The Bushmaster and the Chimneymaster:**
 
-A collection net used to grab tube worms or living fauna near
+* A collection net used to grab tube worms or living fauna near
 geothermal vents. These tools are typically attached to a
 submersible vessel.
 
 **Clod Cards:**
 
-These plaster cards track the motion of water for benthic organisms.
+* These plaster cards track the motion of water for benthic organisms.
 The organisms that inhabit the bottom of the ocean. allowing us to
 learn more about the harder to reach parts of the ocean.
 
 **Drifters:**
 
-Drifters, are essentially devices that flow with the current of the
+* Drifters, are essentially devices that flow with the current of the
 ocean. Allowing for them to be mapped and visualized.
 
 **Geographic Information Systems:**
 
-Essentially the creation of 3D modeling within an computer
+* Essentially the creation of 3D modeling within an computer
 environment of the ocean.
 
 **Satellites:**
 
-Can detect and observe the ocean characteristics.
+* Can detect and observe the ocean characteristics.
 
-*Semipermeable Membrane Devices:*
+**Semipermeable Membrane Devices:**
 
-Used to collect various microbes for analysis of bacteria
+* Used to collect various microbes for analysis of bacteria
 environment.
 
 **Sonar:**
 
-Uses sound to detect area around a submersible, and well as figure
+* Uses sound to detect area around a submersible, and well as figure
 out water depth.
 
 **Sonde and CTD:**
 
-Collect data on a multitude of things, primarily temperature at
+* Collect data on a multitude of things, primarily temperature at
 different depths and conductivity of the water.
 
 These sensors and technologies are what help make the data we can use to

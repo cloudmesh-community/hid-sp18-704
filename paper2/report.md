@@ -1,11 +1,10 @@
 # Netflix use of Big Data Visualization
 
----
 |Zachary Meier
 |zrmeier@indiana.edu   
 |Indiana University, Bloomington
 |hid: hid-sp18-704
-|github: [:cloud:](https://github.com/cloudmesh-community/hid-sp18-704/blob/master/paper2/report.md) 
+|github: https://github.com/cloudmesh-community/hid-sp18-704/blob/master/paper2/report.md
 ---
 
 ## Abstract: 

@@ -1,0 +1,20 @@
+---
+title: Big Data in Oceanography
+bibliography: report.bib
+creator:
+- role: Author
+    text: Zachary Meier
+description: Big Data Applications in oceanography.
+language: en-US
+figureTitle: Figure
+figPrefix: Figure
+eqnPrefix: Equation
+secPrefix: Section
+tblPrefix: Table
+linkReferences: True
+nameInLink: True
+fignos-caption-name: Figure
+fignos-plus-name: Figure
+xnos-number-sections: True
+keywords: [bigdata, oceanography]
+mustache: abbrev.yaml
