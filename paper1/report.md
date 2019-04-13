@@ -5,9 +5,11 @@
 |Indiana University, Bloomington
 |hid: hid-sp18-704
 |github: https://github.com/cloudmesh-community/hid-sp18-704/blob/master/paper1/report.md
+
 ---
 
-## Abstract:
+## Abstract
+
 This paper will give an overview of how big data is used to collect and
 process data about our oceans in better ways to understand it and how to
 solve complex issues surrounding it.
@@ -25,54 +27,54 @@ use of many different sensors. [@NOAA]
 **Acoustic Doppler Current Profiler:**
 
 * This tool measures the speed and direction of ocean currents using
-the principle of Doppler shift. Measuring currents is a fundamental
-practice of physical oceanographers.
+  the principle of Doppler shift. Measuring currents is a fundamental
+  practice of physical oceanographers [????]. :o: ref missing
 
 **Technologies for Ocean Acoustic Monitoring:**
 
 * This technology listens to the ocean for all sounds, boats, sea
-animals, waves, siezmic activity.
+  animals, waves, siezmic activity [????]. :o: ref missing
 
 **The Bushmaster and the Chimneymaster:**
 
 * A collection net used to grab tube worms or living fauna near
-geothermal vents. These tools are typically attached to a
-submersible vessel.
+  geothermal vents. These tools are typically attached to a
+  submersible vessel [????]. :o: ref missing
 
 **Clod Cards:**
 
 * These plaster cards track the motion of water for benthic organisms.
-The organisms that inhabit the bottom of the ocean. allowing us to
-learn more about the harder to reach parts of the ocean.
+  The organisms that inhabit the bottom of the ocean. allowing us to
+  learn more about the harder to reach parts of the ocean [????]. :o: ref missing
 
 **Drifters:**
 
 * Drifters, are essentially devices that flow with the current of the
-ocean. Allowing for them to be mapped and visualized.
+  ocean. Allowing for them to be mapped and visualized [????]. :o: ref missing
 
 **Geographic Information Systems:**
 
 * Essentially the creation of 3D modeling within an computer
-environment of the ocean.
+  environment of the ocean [????]. :o: ref missing
 
 **Satellites:**
 
-* Can detect and observe the ocean characteristics.
+* Can detect and observe the ocean characteristics [????]. :o: ref missing
 
 **Semipermeable Membrane Devices:**
 
 * Used to collect various microbes for analysis of bacteria
-environment.
+  environment [????]. :o: ref missing
 
 **Sonar:**
 
 * Uses sound to detect area around a submersible, and well as figure
-out water depth.
+  out water depth [????]. :o: ref missing
 
 **Sonde and CTD:**
 
 * Collect data on a multitude of things, primarily temperature at
-different depths and conductivity of the water.
+  different depths and conductivity of the water [????]. :o: ref missing
 
 These sensors and technologies are what help make the data we can use to
 analyze and help predict our oceans health and patterns. All of these
