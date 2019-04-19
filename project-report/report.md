@@ -4,7 +4,7 @@
 |zrmeier@indiana.edu   
 |Indiana University, Bloomington
 |hid: hid-sp18-704
-|github: https://github.com/cloudmesh-community/hid-sp18-704/blob/master/paper2/report.md
+|github: https://github.com/cloudmesh-community/hid-sp18-704/blob/master/project-report/report.md
  
  
 ## Abstract
@@ -175,6 +175,7 @@ patient and be able to take the correct actions quicker and more
 efficiently [@Dimitrov2016].
 
 ### Evolution of Health Applications
+
 It was not long ago, that if you had a problem that there was an
 application out there that could not solve it. That stands true today.
 Most health apps are for tracking goals as well as certain vitals, but
@@ -190,13 +191,6 @@ Diabetes can cause a multitude of problems for patients and hospitals a
 like. These applications if utilized correctly will help save lives and
 unneeded expenses.
 
-### sidebar
-If this became of many other applications in the health sector
-specifically aimed at specific issues; for instance, obesity. This could
-yield long lasting results for the healthcare industry in terms of
-expenditures. As of now roughly 30% of the United states suffer from
-obesity. The upward trend is still on the climb and is seen as a
-worrisome statistic. Medical Internet of things may bring about some
 
 ### Pharmaceuticals
 
