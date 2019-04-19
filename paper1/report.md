@@ -39,7 +39,7 @@ use of many different sensors noted below[@www-NOAA2013SensorsAndSystems].
 
 * A collection net used to grab tube worms or living fauna near
   geothermal vents. These tools are typically attached to a
-  submersible vessel[@www-OAA2013SensorsAndSystems].
+  submersible vessel[@www-NOAA2013SensorsAndSystems].
 
 **Clod Cards:**
 
@@ -175,7 +175,10 @@ far is clear that we need to do. And though we do not have it all the
 answers, we have enough data to start asking the important questions to
 set us on the right track.
 
+## Acknowledgments
+
 The authors would like to thank Professor Gregor von Laszewski and all
 the TA's for their help. As well as other students and their
 contribution to collective learning.
 
+## References

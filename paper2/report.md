@@ -99,7 +99,7 @@ valuable data that scales. They did this by simplifying the structure of
 the data and the query structures. In addition most of this data was
 kept in memory so it as easily accessible so as not have to access a
 database and slow down the process. This allows the data to be pulled
-quickly from many different services that demand the data [@wwww-Netflix2014Atlas].
+quickly from many different services that demand the data [@www-Netflix2014Atlas].
 
 ## Visualization
 
@@ -161,3 +161,5 @@ be [@www-Evans2014EmbracingFailure]?
 ## Acknowledgments
 The authors would like to thank Dr. Gregor von Laszewski and the TA's
 for their help and support.
+
+## References
