@@ -48,7 +48,8 @@ industry. Netflix now has almost 100 million views in almost every
 country around the globe. However, they plan to push for more customers.
 They plan to dedicate 1 billion dollars to acquiring new customers. It
 is uncertain what the future hold for Netflix but one can bet that it
-will involve big data, and that is what will drive them forward.[@Marr]
+will involve big data, and that is what will drive them forward 
+[@Marr2015BigDataNetfilx].
 
 ## The Revolution of the Genre
 
@@ -58,8 +59,8 @@ they would be able to count it easily. However, when Netflix was looking
 for a way to create better data so they could create better suggestions
 to retain customers, they revolutionized that system. Gone are the days
 of simplistic genres of the past created by Hollywood. Now are the days
-of 76,897 to categorize movies according to Netflix. [@Madrigal] Soon
-this grew into much more.
+of 76,897 to categorize movies according to Netflix [@Madrigal2014Netfilx]. 
+Soon this grew into much more.
 
 ## The Netflix Quantum Theory
 
@@ -98,7 +99,7 @@ valuable data that scales. They did this by simplifying the structure of
 the data and the query structures. In addition most of this data was
 kept in memory so it as easily accessible so as not have to access a
 database and slow down the process. This allows the data to be pulled
-quickly from many different services that demand the data. [@Netflix]
+quickly from many different services that demand the data [@Netflix2014Atlas].
 
 ## Visualization
 
@@ -115,7 +116,7 @@ serve a purpose. Which cover the three ways Netflix views data.
     makes it easier to explain.
 
 -   The longer you take to find the data, the less valuable it
-    becomes.[@Simon]
+    becomes[@Simon2014BigDataLesson].
 
 With these view you can see how Netflix want to accurate rich accurate
 data. Not only that but make it better. Something a normal person can
@@ -155,7 +156,7 @@ any case Netflix has adapted and conquered and now is a model for many
 other platforms out there such as amazon video and apple TV. Whether or
 not the will get to the level of Netflix is possible, but the real
 question is, by the time they get to that level, where will Netflix
-be?[@Evans]
+be [@Evans2014EmbracingFailure]?
 
 ## Acknowledgments
 The authors would like to thank Dr. Gregor von Laszewski and the TA's

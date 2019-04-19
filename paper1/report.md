@@ -22,59 +22,59 @@ anything about it. This paper is to give an overview of how and with
 what we are collecting the data and the problems we face in that
 collection of data. In the hope that we can start to uncover the
 mysteries that hide below the surface. To collect this data there is a
-use of many different sensors noted below[@NOAA].
+use of many different sensors noted below[@NOAA2013SensorsAndSystems].
 
 **Acoustic Doppler Current Profiler:**
 
 * This tool measures the speed and direction of ocean currents using
   the principle of Doppler shift. Measuring currents is a fundamental
-  practice of physical oceanographers[@NOAA].
+  practice of physical oceanographers[@NOAA2013SensorsAndSystems].
 
 **Technologies for Ocean Acoustic Monitoring:**
 
 * This technology listens to the ocean for all sounds, boats, sea
-  animals, waves, siezmic activity[@NOAA].
+  animals, waves, siezmic activity[@NOAA2013SensorsAndSystems].
 
 **The Bushmaster and the Chimneymaster:**
 
 * A collection net used to grab tube worms or living fauna near
   geothermal vents. These tools are typically attached to a
-  submersible vessel[@NOAA].
+  submersible vessel[@NOAA2013SensorsAndSystems].
 
 **Clod Cards:**
 
 * These plaster cards track the motion of water for benthic organisms.
   The organisms that inhabit the bottom of the ocean. allowing us to
-  learn more about the harder to reach parts of the ocean[@NOAA]. 
+  learn more about the harder to reach parts of the ocean[@NOAA2013SensorsAndSystems]. 
 
 **Drifters:**
 
 * Drifters, are essentially devices that flow with the current of the
-  ocean. Allowing for them to be mapped and visualized[@NOAA]. 
+  ocean. Allowing for them to be mapped and visualized[@NOAA2013SensorsAndSystems]. 
 
 **Geographic Information Systems:**
 
 * Essentially the creation of 3D modeling within an computer
-  environment of the ocean[@NOAA].
+  environment of the ocean[@NOAA2013SensorsAndSystems].
 
 **Satellites:**
 
-* Can detect and observe the ocean characteristics[@NOAA].
+* Can detect and observe the ocean characteristics[@NOAA2013SensorsAndSystems].
 
 **Semipermeable Membrane Devices:**
 
 * Used to collect various microbes for analysis of bacteria
-  environment[@NOAA].
+  environment[@NOAA2013SensorsAndSystems].
 
 **Sonar:**
 
 * Uses sound to detect area around a submersible, and well as figure
-  out water depth[@NOAA]. 
+  out water depth[@NOAA2013SensorsAndSystems]. 
 
 **Sonde and CTD:**
 
 * Collect data on a multitude of things, primarily temperature at
-  different depths and conductivity of the water[@NOAA]. 
+  different depths and conductivity of the water[@NOAA2013SensorsAndSystems]. 
 
 These sensors and technologies are what help make the data we can use to
 analyze and help predict our oceans health and patterns. All of these
@@ -108,7 +108,7 @@ learning how to take action and where.
 ## Collection Efforts
 
 As of right now the collection of data is not a collective effort
-globally. [@Delgnrain] However there are many organizations that are
+globally. [@Delgnrain2017HealOceans] However there are many organizations that are
 doing their best to collect and analyze the data. One of these
 organizations is The National Oceanic and Atmospheric Association. Which
 is collecting massive amounts of off coastal based laboratories. The use
@@ -151,7 +151,7 @@ makes sense. In one case for modeling salinity of different parts of
 coastal regions, they match up GPS data points and observations and time
 with the data from the senors that collect it. The matching of all this
 information allows you to integrate the data together for correct
-mapping of a given location. [@Liu2016] This is just a small example of
+mapping of a given location. [@Liu2016BigDataOceans] This is just a small example of
 the amount of effort to pull all the data together to produce
 visualization of those results
 
@@ -160,7 +160,7 @@ visualization of those results
 Though the efforts have not come together globally as of yet, plans to
 make that happen are in motion. Just this June, the United Nations met
 for a week long discussion on how to make our oceans healthier with
-emphasis on global cooperation. [@Woody] Unlike the pairs agreements for
+emphasis on global cooperation. [@Woody2017BigDataOceans] Unlike the pairs agreements for
 global warming, this meeting will not come to a signed contract, rather
 an understanding that be every country will to be accountable for some
 part of the oceans health. And encourage international cooperation to
