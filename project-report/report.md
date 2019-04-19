@@ -8,6 +8,7 @@
  
  
 ## Abstract
+
 The medical field has long been collecting data from various sources.
 Previous to the revolution in big data, the information collected had be
 siloed in doctors' offices and shared when only requested. This leaves
@@ -21,6 +22,7 @@ health industry is utilizing data to make healthcare cheaper, more
 efficient, and allow for better patient care. 
 
 ## Introduction
+
 Before the data revolution in the medical field started to gain
 popularity, data was being collected with paper files and hand-written
 notes. Then those files were put into a record system where everything
@@ -41,6 +43,7 @@ for care and prevention as well as strides in researching effective
 treatments
 
 ## Advantages of Big Data analytics in healthcare
+
 The healthcare industry's data is set to grow dramatically and shows no
 signs for slowing soon. What does this mean for the industry though? In
 order to keep up with trends and stay ahead of competitors healthcare
@@ -53,6 +56,7 @@ is estimated that the use of big data analytics could save over \$300
 billion dollars a year for the healthcare industry.
 
 ## The Data
+
 In most cases when it comes to big data, there is no easy way to deal
 with it. The vast amount of data and the different types of data makes
 it relatively difficult to sift through. Add in that all this data from
@@ -65,6 +69,7 @@ excluding possible data from outside sources such as commercial health
 tracking systems.
 
 ### Clinical data
+
 Patients create a lot of data, ranging from the vitals they give when
 they see a doctor such as blood pressure, temperature and body weight
 and height to other information taken from test such as x-rays, blood
@@ -268,6 +273,33 @@ the patient and the issues that they face and the treatments that worked best fo
 data gives the best choices for that type of person and not for the disease or issue itself.  
 
 
+### CARE: A Patient-Centric Personalized Healthcare Framework
+
+Here is a possible example with the use of data mining in big data to create a possible application
+for patient centric healthcare.  This framework allows for patients to get an in-depth look into their
+current health status.  Not only that but the possibility of future issues or complications they may
+face based on their personal type of profile.  In addition, these assessments could allow the patient
+to be vigilant and on the look out for warning signs of possible symptoms.  Though being able to spot
+possibly predisposed diseases seems nice, these assessments would also include proactive step to 
+possibly, reduce the risk of the disease or condition or possibly not getting the disease or condition
+at all. 
+
+How would this system be constructed and how would it function? The answer in this case is in the 
+name itself.  Collaborative Assessment and Recommendation Engine (CARE) [Chawla2013].  The premise of 
+this framework is to create essentially a Netflix base data system in which the patient data from 
+various others is aggregated and compared to the current patient’s information.  This allows for the 
+patient type to see how other patients have developed certain diseases and what factors lead to it as 
+well. 
+
+The real question to ask for a product like this however is, will the patient use this data to change 
+their health outcome?  Only time and data can help reveal if this use of data will produce outcomes. 
+However, given the human species and most species are creatures are on of habit, the intended outcome 
+may not succeed fully. Most will not act unless the situation is immediate, and currently affecting 
+them.   That is not to say that this system will not have positive outcomes for some, just that the 
+majority will do nothing with the information they are presented.  This model is something that would 
+truly help in an ideal world where patients indeed take care of themselves.  
+
+
 
 ## Big Data Effects on Healthcare
 
@@ -290,7 +322,7 @@ a whole.
 
 Right Living:
 
-This value pathway is created by Patients actively taking part in
+* This value pathway is created by Patients actively taking part in
 their own treatment. These are done through lifestyle changes
 allowing them to remain as healthy as possible. This includes proper
 diet and exercise to remain as healthy as possible. However, this
@@ -301,7 +333,7 @@ prevention and allowing the doctors to see those who are truly sick.
 
 Right Care:
 
-This pathway concentrates on efficiencies in care for the patient.
+* This pathway concentrates on efficiencies in care for the patient.
 The right care requires clear communication from providers to care
 givers in which all the information is used to attain the same goal
 for the patients care and thus avoid duplicate work saving time and
@@ -309,7 +341,7 @@ money for every party involved.
 
 Right Provider:
 
-This pathway is setting up the match between the patient and
+* This pathway is setting up the match between the patient and
 provided. Selecting the provider with the correct skill for the
 issue that is presented. That is also coupled with those providers
 who give the bask outcome for a problem given. This allows for quick
@@ -318,7 +350,7 @@ well.
 
 Right Value:
 
-It is well known healthcare comes at a high cost. This pathway takes
+* It is well known healthcare comes at a high cost. This pathway takes
 aim at that problem. The goal of this pathway is to lower the cost
 of healthcare while improving or sustaining over all care. This
 means implementing cost-effective measures such as, reimbursing
@@ -327,7 +359,7 @@ abuse of the medical system.
 
 Right Innovation:
 
-This pathway is to drive innovation in the medical field.
+* This pathway is to drive innovation in the medical field.
 Essentially this is the change of the industry. Creating better ways
 to test out drug's effectiveness before release of it in trials.
 Better ways to treat patients with a certain disease. Better
@@ -341,5 +373,5 @@ positive change in the healthcare industry.
 ## Privacy
 
 
-The authors would like to thank Dr. Gregor von Laszewski and the TA's
+The author would like to thank Dr. Gregor von Laszewski and the TA's
 for their help and support, and patient for the completion of this work.

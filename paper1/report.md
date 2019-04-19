@@ -22,59 +22,59 @@ anything about it. This paper is to give an overview of how and with
 what we are collecting the data and the problems we face in that
 collection of data. In the hope that we can start to uncover the
 mysteries that hide below the surface. To collect this data there is a
-use of many different sensors [@NOAA].
+use of many different sensors noted below[@NOAA].
 
 **Acoustic Doppler Current Profiler:**
 
 * This tool measures the speed and direction of ocean currents using
   the principle of Doppler shift. Measuring currents is a fundamental
-  practice of physical oceanographers.
+  practice of physical oceanographers[@NOAA].
 
 **Technologies for Ocean Acoustic Monitoring:**
 
 * This technology listens to the ocean for all sounds, boats, sea
-  animals, waves, siezmic activity.
+  animals, waves, siezmic activity[@NOAA].
 
 **The Bushmaster and the Chimneymaster:**
 
 * A collection net used to grab tube worms or living fauna near
   geothermal vents. These tools are typically attached to a
-  submersible vessel.
+  submersible vessel[@NOAA].
 
 **Clod Cards:**
 
 * These plaster cards track the motion of water for benthic organisms.
   The organisms that inhabit the bottom of the ocean. allowing us to
-  learn more about the harder to reach parts of the ocean. 
+  learn more about the harder to reach parts of the ocean[@NOAA]. 
 
 **Drifters:**
 
 * Drifters, are essentially devices that flow with the current of the
-  ocean. Allowing for them to be mapped and visualized. 
+  ocean. Allowing for them to be mapped and visualized[@NOAA]. 
 
 **Geographic Information Systems:**
 
 * Essentially the creation of 3D modeling within an computer
-  environment of the ocean.
+  environment of the ocean[@NOAA].
 
 **Satellites:**
 
-* Can detect and observe the ocean characteristics.
+* Can detect and observe the ocean characteristics[@NOAA].
 
 **Semipermeable Membrane Devices:**
 
 * Used to collect various microbes for analysis of bacteria
-  environment.
+  environment[@NOAA].
 
 **Sonar:**
 
 * Uses sound to detect area around a submersible, and well as figure
-  out water depth. 
+  out water depth[@NOAA]. 
 
 **Sonde and CTD:**
 
 * Collect data on a multitude of things, primarily temperature at
-  different depths and conductivity of the water. 
+  different depths and conductivity of the water[@NOAA]. 
 
 These sensors and technologies are what help make the data we can use to
 analyze and help predict our oceans health and patterns. All of these
