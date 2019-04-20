@@ -378,7 +378,7 @@ various others is aggregated and compared to the current patient’s information
 patient type to see how other patients have developed certain diseases and what factors lead to it as 
 well. 
 
-The real question to ask for a product like this however is, will the patient use this data to change 
+The real question to ask for a product like this is; will the patient use this data to change 
 their health outcome?  Only time and data can help reveal if this use of data will produce outcomes. 
 However, given the human species and most species are creatures are on of habit, the intended outcome 
 may not succeed fully. Most will not act unless the situation is immediate, and currently affecting 
@@ -422,7 +422,7 @@ being a better pair of eyes in reviewing imaging results, to detecting things
 only a computer program could.  Reviewing the different ways, it is being used 
 with show how revolutionary it will be in the healthcare industry.
 
-\subsection{Clinical Documentation Improvement}
+### Clinical Documentation Improvement
 Clinical documentation has come quite a long way from where it once was.  A field 
 that has moved from hand written notes, orders and prescriptions, to almost being 
 completely digitally based.  This no doubt has helped improve the records for patients 
@@ -432,7 +432,7 @@ health records is they hold a large amount of complex data in many different are
 this is a very detailed and thorough account for the doctor and patient and is very important 
 for every stakeholder.  Completing this electronic medical record can often cause great 
 strain on the physician to complete it in timely manner.  A recent study of 57 different 
-types of doctors show they spend 49/% of their time filling out records; 21 of those 
+types of doctors show they spend 49% of their time filling out records; 21 of those 
 doctors ended up having to complete the records after hours[@Sinsky2016EMRStudy].
 
 This research clearly indicates that there is a problem with the way doctors have to intake 
