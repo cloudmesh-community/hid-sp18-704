@@ -180,5 +180,5 @@ set us on the right track.
 The authors would like to thank Professor Gregor von Laszewski and all
 the TA's for their help. As well as other students and their
 contribution to collective learning.
-
+ 
 ## References

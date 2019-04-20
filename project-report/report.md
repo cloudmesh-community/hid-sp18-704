@@ -55,6 +55,72 @@ what surgeries are proven most effective for a certain medical issue. It
 is estimated that the use of big data analytics could save over \$300
 billion dollars a year for the healthcare industry.
 
+## Big Data Effects on Healthcare
+
+Currently the healthcare system is extremely complex and rich full of
+data. Though these complexities look to create challenges they also
+offer the ability to do remarkable things. In using big data analytics
+in the healthcare ecosystem, it will effectively change how care is now
+delivered. These changes will affect every stake holder in the
+healthcare ecosystem and create a positive change especially for the
+patients.
+
+These changes can drive change and can also be looked at as new types of
+value pathways. These pathways help in delivering the best
+cost-effective treatment for a patient, while creating the best outcome
+for the patient. This allows healthcare system as a whole to operate
+more efficiently but deliver the best result for the patient. Given the
+pathways below it is possible to create better patient care, and lower
+cost to the consumer as well as to the provider and healthcare system as
+a whole.
+
+Right Living:
+
+* This value pathway is created by Patients actively taking part in
+their own treatment. These are done through lifestyle changes
+allowing them to remain as healthy as possible. This includes proper
+diet and exercise to remain as healthy as possible. However, this
+does include their active care, when they do become ill. With this
+pathway the patient is taking control of their healthcare and only
+seeing a doctor when needed while helping with their own disease
+prevention and allowing the doctors to see those who are truly sick.
+
+Right Care:
+
+* This pathway concentrates on efficiencies in care for the patient.
+The right care requires clear communication from providers to care
+givers in which all the information is used to attain the same goal
+for the patients care and thus avoid duplicate work saving time and
+money for every party involved.
+
+Right Provider:
+
+* This pathway is setting up the match between the patient and
+provided. Selecting the provider with the correct skill for the
+issue that is presented. That is also coupled with those providers
+who give the bask outcome for a problem given. This allows for quick
+assessment of issues as well as quick resolving of the issue as
+well.
+
+Right Value:
+
+* It is well known healthcare comes at a high cost. This pathway takes
+aim at that problem. The goal of this pathway is to lower the cost
+of healthcare while improving or sustaining over all care. This
+means implementing cost-effective measures such as, reimbursing
+providers based on patient outcomes, or eliminating waste, fraud and
+abuse of the medical system.
+
+Right Innovation:
+
+* This pathway is to drive innovation in the medical field.
+Essentially this is the change of the industry. Creating better ways
+to test out drug's effectiveness before release of it in trials.
+Better ways to treat patients with a certain disease. Better
+surgical tools that are less invasive. This pathway has many
+directions it can go, but it is the most effective way to initiate
+positive change in the healthcare industry.
+
 ## The Data
 
 In most cases when it comes to big data, there is no easy way to deal
@@ -119,6 +185,23 @@ Fitbits and Apple watches give a lot of data.  This includes sleeping patterns,
 heart rate, resting heartrate, exercise, caloric intake, sleep patterns.
 This type of data outside normal clinical data can help give an all profile of a patient. 
 
+### Government Influence
+There is a massive amount of data in the healthcare industry alone, but there is a saying that 
+more is better’ and with data that is always true.  In the United States, the federal government 
+has created many initiatives to make healthcare data available to the public in order to improve 
+the cost and quality of healthcare for all of the parties involved.  With government the healthcare 
+industry has made large strides in becoming a big data business.  Before its involvement, most of 
+the healthcare industry was not nearly as digitized as is now. The US government created massive 
+incentives for healthcare business to switch to Electronic Medical Records which hold enormous 
+value in terms of data.  These incentives also allowed for infrastructure upgrades and training for 
+the electronic medical record.
+
+In addition to incentives, the opening of government data has allowed for a look into government
+collected data that does pertain to healthcare as well.  This data have been opened up from 
+Centers for Medicare and Medicaid Services, the Food and Drug Administration, and the Centers
+for Disease Control.
+
+
 ### Data sharing
 In order for data to be relevant and allow for trends to be seen, there
 needs to be a fairly large sample size. Typically, this data is kept in
@@ -128,8 +211,9 @@ good sample of data one would want to aggregate as much as possible.
 Realistically regional, or national data sets would work best until a
 global effort is put forward to collect and utilize data from every
 location possible. Until that day comes the best way to create these
-data sets is by sharing findings at health-information exchanges. These
-events allow the sharing of millions of electronic medical files.
+data sets is by sharing findings at health-information exchanges. 
+
+These events allow the sharing of millions of electronic medical files.
 However, for the patient's privacy all these records are stripped of
 their names and any other type of identifiers. That allows for the data
 to be safely shared with other physicians and those studying the data.
@@ -151,9 +235,10 @@ heart rate, your exercise and steps taken, food intake, water intake,
 weight gain or loss, sleeping schedule, and sleep quality. This
 information alone can enable a physician to give corrective changes to
 help someone lose weight or, sleep better at night or possibly spot a
-potential problem by seeing their results. With medical internet of
-things doctors' visits will become more efficient, less frequent. The
-doctor will be able to monitor trends in recovery and treatment and
+potential problem by seeing their results. 
+
+With medical internet of things doctors' visits will become more efficient, 
+less frequent. The doctor will be able to monitor trends in recovery and treatment and
 schedule appointments based on those trends. Even further still the
 in-office appointment may become unnecessary due to virtual doctor
 visits which can be done from the comfort of a patient's home. This
@@ -166,8 +251,9 @@ First the vitals are taken, then a brief talk with the nurse over the
 reason for the visit and then the doctor comes in and reviews the
 information gives an examination and takes some sort of action. The
 action could be a new prescription or possibly asking for some procedure
-or lab to be done, or even possibly referring a specialist. All of these
-tasks seem rather repetitive but soon the landscape of a doctor's
+or lab to be done, or even possibly referring a specialist. 
+
+All of these tasks seem rather repetitive but soon the landscape of a doctor's
 appointment will change. Doctors and nurses will have the medical
 history and vitals all at the touch of screen. In a hypothetical
 situation one could get the vitals taken care of, that information would
@@ -189,6 +275,7 @@ applications are becoming more specialized. There is application company
 named Canary Health which is specializing in prediabetes prevention. The
 application changes the eating habits as well as physical activity of
 the patient to become healthier and possibly no longer be prediabetic.
+
 Applications such as this not only help patients get healthier and save
 money. They also help the overall health care system preform better and
 save them money as well in the process. Chronic diseases such as
@@ -299,79 +386,70 @@ them.   That is not to say that this system will not have positive outcomes for 
 majority will do nothing with the information they are presented.  This model is something that would 
 truly help in an ideal world where patients indeed take care of themselves.  
 
+## Artificial intelligence in Healthcare
+Analytic data has its place in the healthcare industry and has made major strides 
+in helping the medical field keep up and understand its data.  There are many 
+tools that help its intake and gain understanding to help the patients, doctors, 
+payors, and pharmaceutical companies achieve efficient and proper care.  However, 
+that is not enough to truly transform the healthcare industry, and it would be a 
+was of data if artificial intelligence were not to be utilized in such a complex 
+and demanding field.
 
 
-## Big Data Effects on Healthcare
+### Defining Artificial Intelligence
+In most cases definitions of terms is often boolean.  It is either what it is 
+defined as, or it is not.  Though there are quiet a few definitions that seem 
+to be hard to define.  Artificial intelligence falls under this category.  Since 
+the term was initially coined in 1955, defining its actual meaning has become 
+somewhat of a difficult task.  The original idea behind artificial intelligence 
+was the ability to make a machine perform task as an intelligent human being would.  
+However, this raises many questions of its own, such as how do we qualify intelligence 
+and what does intelligence even mean[@kaplan2016artificial]? The definition of 
+artificial intelligence is still being debated and which complicates its meaning 
+for this paper.  For simplicity, Artificial Intelligence in this paper will refer to 
+the ability of a program which is able to listen, see and understand information, 
+which is then processed as learning, as well as being taught by way of human 
+corrections.  Programs such as these, and like humans, are always learning, but 
+have far better memory recall and learning ability than humans, but only when taught.  
 
-Currently the healthcare system is extremely complex and rich full of
-data. Though these complexities look to create challenges they also
-offer the ability to do remarkable things. In using big data analytics
-in the healthcare ecosystem, it will effectively change how care is now
-delivered. These changes will affect every stake holder in the
-healthcare ecosystem and create a positive change especially for the
-patients.
+## Applications of artificial intelligence
+The applications of Artificial intelligence are far reaching.  It can simplify 
+a doctor visit or regulation compliance or even predict someone who is at risk 
+of self-harm or suicidal.  Artificial intelligence is prevalent in many other 
+applications and will become ubiquitous in the healthcare industry, relieving 
+doctors of extensive paperwork, and allowing them to concentrate on the patient, 
+being a better pair of eyes in reviewing imaging results, to detecting things 
+only a computer program could.  Reviewing the different ways, it is being used 
+with show how revolutionary it will be in the healthcare industry.
 
-These changes can drive change and can also be looked at as new types of
-value pathways. These pathways help in delivering the best
-cost-effective treatment for a patient, while creating the best outcome
-for the patient. This allows healthcare system as a whole to operate
-more efficiently but deliver the best result for the patient. Given the
-pathways below it is possible to create better patient care, and lower
-cost to the consumer as well as to the provider and healthcare system as
-a whole.
+\subsection{Clinical Documentation Improvement}
+Clinical documentation has come quite a long way from where it once was.  A field 
+that has moved from hand written notes, orders and prescriptions, to almost being 
+completely digitally based.  This no doubt has helped improve the records for patients 
+and has helped doctors with treating them.  However, as time has passed with the advent 
+of the electronic health record so have problems with them. The main issue with electronic 
+health records is they hold a large amount of complex data in many different areas. Though 
+this is a very detailed and thorough account for the doctor and patient and is very important 
+for every stakeholder.  Completing this electronic medical record can often cause great 
+strain on the physician to complete it in timely manner.  A recent study of 57 different 
+types of doctors show they spend 49/% of their time filling out records; 21 of those 
+doctors ended up having to complete the records after hours[@Sinsky2016EMRStudy].
 
-Right Living:
-
-* This value pathway is created by Patients actively taking part in
-their own treatment. These are done through lifestyle changes
-allowing them to remain as healthy as possible. This includes proper
-diet and exercise to remain as healthy as possible. However, this
-does include their active care, when they do become ill. With this
-pathway the patient is taking control of their healthcare and only
-seeing a doctor when needed while helping with their own disease
-prevention and allowing the doctors to see those who are truly sick.
-
-Right Care:
-
-* This pathway concentrates on efficiencies in care for the patient.
-The right care requires clear communication from providers to care
-givers in which all the information is used to attain the same goal
-for the patients care and thus avoid duplicate work saving time and
-money for every party involved.
-
-Right Provider:
-
-* This pathway is setting up the match between the patient and
-provided. Selecting the provider with the correct skill for the
-issue that is presented. That is also coupled with those providers
-who give the bask outcome for a problem given. This allows for quick
-assessment of issues as well as quick resolving of the issue as
-well.
-
-Right Value:
-
-* It is well known healthcare comes at a high cost. This pathway takes
-aim at that problem. The goal of this pathway is to lower the cost
-of healthcare while improving or sustaining over all care. This
-means implementing cost-effective measures such as, reimbursing
-providers based on patient outcomes, or eliminating waste, fraud and
-abuse of the medical system.
-
-Right Innovation:
-
-* This pathway is to drive innovation in the medical field.
-Essentially this is the change of the industry. Creating better ways
-to test out drug's effectiveness before release of it in trials.
-Better ways to treat patients with a certain disease. Better
-surgical tools that are less invasive. This pathway has many
-directions it can go, but it is the most effective way to initiate
-positive change in the healthcare industry.
-
-## Federal Expansion
+This research clearly indicates that there is a problem with the way doctors have to intake 
+patient data.  There maybe some factors of user interface and design that make these records 
+hard to navigate and complete. However, even if those issue were addressed, would it be enough 
+to make an impact, and free up physicians time and work load so they can concentrate on 
+listening to the patients need, while allowing a proper work life balance as well; thus, 
+contributing to a better doctor patient experience.  Furthermore, new designs and changing 
+models may require more time and training, and possibly costing more money for upgrades to 
+the software.  At this crossroad artificial intelligence maybe the answer.  There are a multitude 
+of ways this could help save hours of time spent normally logging information and allow for 
+bettering communication between patients and doctors.  
 
 
-## Privacy
 
-
+## Acknowledgment
 The author would like to thank Dr. Gregor von Laszewski and the TA's
 for their help and support, and patient for the completion of this work.
+
+## References
