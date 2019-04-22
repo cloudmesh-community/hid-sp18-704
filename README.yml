@@ -8,10 +8,10 @@ owner:
 paper:
   - author: Zachary Meier
     title: Big Data in Oceanography
-    url: https://github.com/cloudmesh-community/hid-sp18-704/tree/master/paper1
+    url: https://github.com/cloudmesh-community/hid-sp18-704/tree/master/paper1/report.md
   - author: Zachary Meier
     title: Netflix use of Big Data Visualization
-    url: https://github.com/cloudmesh-community/hid-sp18-704/tree/master/paper2
+    url: https://github.com/cloudmesh-community/hid-sp18-704/blob/master/paper2/report.md
 project:
   - author: Zachary Meier
     title: Big Data in Medical Sciences

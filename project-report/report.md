@@ -6,8 +6,7 @@
 |hid: hid-sp18-704
 |github: https://github.com/cloudmesh-community/hid-sp18-704/blob/master/project-report/report.md
  
- 
-## Abstract
+ ## Abstract
 
 The medical field has long been collecting data from various sources.
 Previous to the revolution in big data, the information collected had be
@@ -42,7 +41,7 @@ push forward to share it standardize it and creating new opportunities
 for care and prevention as well as strides in researching effective
 treatments
 
-## Advantages of Big Data analytics in healthcare
+## Advantages of Big Data Analytics in Healthcare
 
 The healthcare industry's data is set to grow dramatically and shows no
 signs for slowing soon. What does this mean for the industry though? In
@@ -134,7 +133,7 @@ development data and patient behaviors and sentiment data. This is
 excluding possible data from outside sources such as commercial health
 tracking systems.
 
-### Clinical data
+### Clinical Data
 
 Patients create a lot of data, ranging from the vitals they give when
 they see a doctor such as blood pressure, temperature and body weight
@@ -144,8 +143,8 @@ primary care doctor's office. Now that is expanding. Many health
 institutions are starting to create health profiles on patients. This
 data that once was collected through forms and manually written is now
 becoming digitized. Over the past decade all this medical data has been
-becoming digitized to support the use of big data [@Groves2013]. With
-this movement has come the creating of the Electronic Medical Record.
+becoming digitized to support the use of big data [@Groves2013HealthcareRevolution]. 
+With this movement has come the creating of the Electronic Medical Record.
 The creation of the Electronic Medical Record is a step forward in
 creating real data profiles on patients. It allows for doctors to
 investigate the patient's health history, access x-rays and lab data and
@@ -170,13 +169,13 @@ well as the usage of the visits for patients and help cut out
 redundancies and increase efficiencies.
 
 ### Pharmaceutical Research and Development
-Pharmaceutical Research and development data is that is created by pharmaceutical
+Pharmaceutical Research and development data are created by pharmaceutical
 companies when they create clinical trials.  This data is extremely valuable to 
 show if a drug is working well. However, there may be untapped data in the creation
 of the drugs before it even makes it to clinical development.  Allowing for better
 success rates in the development of drugs.
 
-### Patient Behavior and sentiment Data
+### Patient Behavior and Sentiment Data
 This data is the most indirect capture of data related to healthcare but all the same
 crucial data.  Them most related information would be information from health
 application and wearables that the patient would normally use for their benefit,
@@ -200,7 +199,6 @@ In addition to incentives, the opening of government data has allowed for a look
 collected data that does pertain to healthcare as well.  This data have been opened up from 
 Centers for Medicare and Medicaid Services, the Food and Drug Administration, and the Centers
 for Disease Control.
-
 
 ### Data sharing
 In order for data to be relevant and allow for trends to be seen, there
@@ -246,6 +244,7 @@ saves the doctors and patients time and money yet still allows for more
 effective care than an in person visit.
 
 ### Doctors Visit
+
 Under normal procedures a doctor visit can seem repetitive in nature.
 First the vitals are taken, then a brief talk with the nurse over the
 reason for the visit and then the doctor comes in and reviews the
@@ -263,7 +262,7 @@ accessed. To which the nurse and doctor would have access and be able to
 review and assess before even waling into the room. With this
 information they will already have a general idea of the needs of the
 patient and be able to take the correct actions quicker and more
-efficiently [@Dimitrov2016].
+efficiently [@Dimitrov2016IOT].
 
 ### Evolution of Health Applications
 
@@ -325,7 +324,7 @@ data not just big, if anything massive is a better descriptor.  If you couple wi
 the velocity of the information itself, which covers everything from real time, to batch
 processes the data being collected very quickly.  Then to top it all off the variety of
 healthcare data is quite extreme as well.  This means electronic medical records, pharmaceutical
-studies, xrays, MRI’s, and an assortment of other types of data to work with.
+studies, x-rays, MRI’s, and an assortment of other types of data to work with.
 
 With this Big data in the medical field, it is possible that there are a multitude of medical
 discoveries waiting to be discovered.  At the very least there are some answers on how to improve
@@ -335,6 +334,7 @@ disease-centered model towards a patient-centered model.
 
 
 ### Disease Centered Care
+
 Before the revolutionization of big data in healthcare, physicians made decisions based
 on several factors.  They had their educations, expertise and accrued wisdom, reference
 books and cohorts to help draw logical conclusions to solve the patient’s issue.  Doctors,
@@ -345,6 +345,7 @@ This type of treatment while all that was available before the big data revoluti
 towards patient centered care.
 
 ### Patient Centered Care
+
 While Diseases centered care is more about knowledge that only physicians acquire and use to help
 patients receive proper treatment; patient centered care is about allowing the patient to be more
 in charge of their actual care.  While we will never replace doctors or the knowledge and skills 
@@ -372,11 +373,11 @@ possibly, reduce the risk of the disease or condition or possibly not getting th
 at all. 
 
 How would this system be constructed and how would it function? The answer in this case is in the 
-name itself.  Collaborative Assessment and Recommendation Engine (CARE) [Chawla2013].  The premise of 
-this framework is to create essentially a Netflix base data system in which the patient data from 
-various others is aggregated and compared to the current patient’s information.  This allows for the 
-patient type to see how other patients have developed certain diseases and what factors lead to it as 
-well. 
+name itself.  Collaborative Assessment and Recommendation Engine (CARE) 
+[@Chawla2013PersonalizedHeathcare].  The premise of this framework is to create essentially a 
+Netflix base data system in which the patient data from various others is aggregated and compared 
+to the current patient’s information.  This allows for the patient type to see how other patients 
+have developed certain diseases and what factors lead to it as well. 
 
 The real question to ask for a product like this is; will the patient use this data to change 
 their health outcome?  Only time and data can help reveal if this use of data will produce outcomes. 
@@ -386,7 +387,7 @@ them.   That is not to say that this system will not have positive outcomes for 
 majority will do nothing with the information they are presented.  This model is something that would 
 truly help in an ideal world where patients indeed take care of themselves.  
 
-## Artificial intelligence in Healthcare
+## Artificial Intelligence in Healthcare
 Analytic data has its place in the healthcare industry and has made major strides 
 in helping the medical field keep up and understand its data.  There are many 
 tools that help its intake and gain understanding to help the patients, doctors, 
@@ -397,6 +398,7 @@ and demanding field.
 
 
 ### Defining Artificial Intelligence
+
 In most cases definitions of terms is often boolean.  It is either what it is 
 defined as, or it is not.  Though there are quiet a few definitions that seem 
 to be hard to define.  Artificial intelligence falls under this category.  Since 
@@ -404,7 +406,7 @@ the term was initially coined in 1955, defining its actual meaning has become
 somewhat of a difficult task.  The original idea behind artificial intelligence 
 was the ability to make a machine perform task as an intelligent human being would.  
 However, this raises many questions of its own, such as how do we qualify intelligence 
-and what does intelligence even mean[@kaplan2016artificial]? The definition of 
+and what does intelligence even mean[@kaplan2016Artificial]? The definition of 
 artificial intelligence is still being debated and which complicates its meaning 
 for this paper.  For simplicity, Artificial Intelligence in this paper will refer to 
 the ability of a program which is able to listen, see and understand information, 
@@ -412,7 +414,8 @@ which is then processed as learning, as well as being taught by way of human
 corrections.  Programs such as these, and like humans, are always learning, but 
 have far better memory recall and learning ability than humans, but only when taught.  
 
-## Applications of artificial intelligence
+## Applications of Artificial Intelligence
+
 The applications of Artificial intelligence are far reaching.  It can simplify 
 a doctor visit or regulation compliance or even predict someone who is at risk 
 of self-harm or suicidal.  Artificial intelligence is prevalent in many other 
@@ -423,6 +426,7 @@ only a computer program could.  Reviewing the different ways, it is being used
 with show how revolutionary it will be in the healthcare industry.
 
 ### Clinical Documentation Improvement
+
 Clinical documentation has come quite a long way from where it once was.  A field 
 that has moved from hand written notes, orders and prescriptions, to almost being 
 completely digitally based.  This no doubt has helped improve the records for patients 
@@ -431,9 +435,9 @@ of the electronic health record so have problems with them. The main issue with 
 health records is they hold a large amount of complex data in many different areas. Though 
 this is a very detailed and thorough account for the doctor and patient and is very important 
 for every stakeholder.  Completing this electronic medical record can often cause great 
-strain on the physician to complete it in timely manner.  A recent study of 57 different 
-types of doctors show they spend 49% of their time filling out records; 21 of those 
-doctors ended up having to complete the records after hours[@Sinsky2016EMRStudy].
+strain on the physician to complete it in timely manner.  A recent study of fifty-seven  different 
+types of doctors show they spend 49% of their time filling out records; twenty-one of those 
+doctors ended up having to complete the records after hours [@Sinsky2016EMRStudy].
 
 This research clearly indicates that there is a problem with the way doctors have to intake 
 patient data.  There maybe some factors of user interface and design that make these records 
@@ -446,6 +450,103 @@ the software.  At this crossroad artificial intelligence maybe the answer.  Ther
 of ways this could help save hours of time spent normally logging information and allow for 
 bettering communication between patients and doctors.  
 
+### Natural Language Processing
+
+Natural language processing is an ever-improving framework within the 
+artificial/machine learning field.  It is the use of taking structured 
+or unstructured text data and creating meaning out of it. It is used 
+in a variety of ways.  From being able to tell if a vast number of 
+tweets are negative over a certain topic by analyzing the value of words 
+used. In the medical field that is just one of the ways it can be used.  
+However, the uses of natural language processing in healthcare could 
+indeed revolutionize more than any other technology available.  It sits 
+at the intersections of the healthcare industry and stand in a location to 
+make considerable changes that will save lives, save time and save money.  
+The two areas where natural language processing stands to make the most 
+impact is with electronic health records and in the area of clinical 
+decision support. Though there are other areas that one could focus, these 
+show the best promise for the technology.
+
+### Improving Upon Electronic Medical Records
+
+Electronic medical records have changed the landscape of the medical field 
+forever. From hand written notes, and knowledge held by few to now digital 
+records that hold all patient data in one place, and sharable with doctors 
+and providers who need the information.  It’s ability to store all this data 
+is extremely useful, however it is also one of its biggest down falls.  The 
+structures of these electronic health records are extremely complex and to 
+input all the correct data into them is a time consuming and tedious task 
+that doctors need to complete.  This is becoming an issue when it comes to 
+patient and doctor interactions.  With the amount of time these records take 
+to fill out, much more time could be spent with the patients and important 
+work could be done.  Rather than doctors spending almost half of their time 
+on documentation alone.
+
+There are currently two methods that are developing for natural language 
+processing trying to solve current issues with filling out electronic health 
+records.  One is the use of speakers that listen to the doctor patient 
+conversations to increase the quality of interactions between patient and 
+doctor.  The second option is the use of natural language processing to go 
+over doctors note in the electronic medical record.  Both have strengths and 
+weakness, yet they both achieve the same goal for the most part.
+
+#### Taking Notes
+
+For most doctors that are practicing medicine today, electronic medical records 
+are still a relatively new concept.  Before the use of pen and papers and forms 
+were all that was needed.  Now with electronic medical records that has changed 
+a bit.  However, they still end up taking notes in the records themselves and 
+then proceed to fill out the information in the record they need for compliance 
+and reimbursements. The redundancy coupled with he complexity of the document 
+takes the doctors far too much time.  Where the natural language processing comes 
+in to play is the notes [@www-Bresnick2016NLP].  What if all the doctor had to do 
+is take notes and the program used those to fill in the rest to the electronic 
+medical record?   This could save the doctor an extraordinary amount of time, 
+compared to how they are doing things now. The issue with this method is that 
+the doctor is still taking notes.  
+
+#### Listening to Patients
+
+Taking notes, while a crucial skill, is time consuming, and takes a good amount 
+of concentration.  Doctors often take notes while in the room with that patient, 
+which takes away from the interaction in which a doctor may miss crucial 
+information while taking notes.  Alternatively, they could take notes after 
+talking with the patient, but how accurate is the information after being out of 
+the room?  Both of these options seem to leave gaps in the care in one way or 
+another.  That is why Nuance Communications has created new speakers and software 
+to do the note taking, so the doctors can concentrate on the patient.  This product 
+will be able to tell apart up to eight different people and be able to keep track 
+of the individual’s position, so the speech is attributed to that person 
+[@www-Bresnick2019NLPSpeakers].  In addition to taking notes from the doctor 
+and patient interactions, it then takes those notes and puts it the relevant 
+information into the document, essentially removing the duty of documentation all 
+together for the physician.  This increases the relation ship between the doctor 
+and patient, increases communication, and eliminates note taking, and documentation work.  
+
+#### Challenges for Natural Language Processing
+
+As of the time of this paper, Natural Language Processing, though having come a 
+long way and from being advanced by many, is still a work in progress.  It is making 
+strides in its development, but its accuracy is still a key issue.  When it comes to 
+unstructured data such as doctors notes it can be extremely difficult to make sense 
+of it all.  This is partially due to some words needing context in order to understand 
+the meaning.  The other issues are abbreviation which may be used, by doctors, in which 
+case some abbreviations have multiple meaning.  Unstructured notes raise a lot of 
+accuracy concerns, making it not a good primary option currently.
+
+Conversely, the future of natural language processing, takes data from not notes, 
+but from people talking in which case creates more structured data.  This makes 
+its adoption into the medical field much more likely and in 2020 there is a system 
+set to be release.  For its full adoption it needs to be extremely accurate, 
+considering even small mistakes in healthcare can lead to complications, lawsuits 
+and death.  However, it seems there should be some reservations about this technology.  
+Patients could feel being eavesdropped upon, having a listening device in a doctor’s 
+examination room.  Usually a place you do not have the feeling of external observation 
+and where one would feel safe.  However, it is not all that different from having an 
+Alexa, google home or even carrying a cell phone.  It will be curious of how patients 
+perceive this new technology and it effects.   Also, physicians should be critical 
+of is product until is has proven that is accurate in its translations and its 
+understanding of meanings of words.
 
 
 ## Acknowledgment
