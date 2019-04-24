@@ -616,6 +616,6 @@ effective care and better healthcare for all.
 
 ## Acknowledgment
 The author would like to thank Dr. Gregor von Laszewski and the TA's
-for their help and support, and patient for the completion of this work.
+for their help and support, and patients for the completion of this work.
 
 ## References
