@@ -548,6 +548,71 @@ perceive this new technology and it effects.   Also, physicians should be critic
 of is product until is has proven that is accurate in its translations and its 
 understanding of meanings of words.
 
+### Clinical Decision Support
+Clinical decision support is a system to help doctors make the right decisions.  
+In most professions making a wrong decision has ramifications, but at the end 
+of the day it will most likely not result in someone’s death.  This is not the 
+case for doctors, and unfortunately it does happen.  Doctors are just people 
+and link all people, are prone to error on occasion.  Though they study and 
+train tirelessly to learn all they can to make the right decisions when it 
+comes to patient care; it is possible that they will make mistakes.  This is 
+why clinical decision support is extremely important for the health care industry.
+
+Doctors do their best to solve patients’ problems with the information they 
+have available to them.  This information is from journal on diseases, 
+conferences, their education, patient’s information on hand.  When all this 
+information is put together, it may create an accurate diagnosis, but doctors 
+don’t have all that information available at that moment especially if it was 
+a small detail which may seem insignificant.  That is why clinical decision 
+support is so important.  It allows every detail to be examined and scrutinized 
+about a patient and the symptoms they may be experiencing. 
+
+Clinical decision support is support for doctors to make the right decision. 
+It allows for them to have confidence in their diagnoses, and treatment plans. 
+Doctors especially those who work in hospital where they can work long hours and 
+under pressure could benefit from this technology.  Under those conditions most 
+would be prone to making mistakes. While doctors are more accustomed to this 
+type of environment, mistakes are still very likely.  Unfortunately, even 
+the smallest mistakes in medicine can have dire consequences. Clinical 
+decision support can stop mistakes from happening, and the ability to save 
+lives, and protecting doctors.
+
+#### IBM Watson
+The best example of clinical decision support is IMB’s Watson.   Back in 2011 
+Watson was quite the celebrity when it went on to the television show Jeopardy. 
+While on the show it was able to beat two of the previous competitors and showing 
+the power of artificial intelligence.  One would think this would seem a simple 
+task for a computer by just being able to look up answers in a database. 
+However, Jeopardy requires much more of Watson to answer their questions. 
+They require the understanding of the natural language and abstraction. 
+
+Watson was not always that smart, and like most hard to work hard to get 
+there.  Watson in some way a trained professional, he just has the ability to 
+learn and retain information much better.  His training consists of translating 
+data points into information, then convert the information into clinically meaningful 
+information and then through that achieve expert level understanding.  In addition 
+to learning through experience, he is also able to take thousands of medical records 
+and analyze the data for trends.  These are found in the various fields of the 
+electronic medical records, including the notes doctors take. [@Castaneda2015CDS]
+    
+
+## Conclusion
+In conclusion big data in healthcare has many different applications for its 
+inclusion.  It has the ability to not only help patients, be every stake hold 
+in the healthcare field.  At current the healthcare’s adoption of big data and 
+technologies that surround it are changing its landscape so quickly.  In a decade’s 
+time healthcare maybe a very different landscape.  Imagining a world where cancer 
+was treatable with pills and medications become self-administering.  Everyday, we 
+advance from a dream to reality where things once dreamed are now possible.  With 
+the role of big data in healthcare, it is poised to help every person it touches and 
+will help save many lives as it continues to grow and become more and more 
+exploited.  There are sure to be issues down the line and with caution and the 
+right steps healthcare will be able to advance.  Security will continue and will 
+always be the number one issue that must remain for big data in healthcare to be 
+successful.  If success in security and careful thinking and progression big data in 
+healthcare will change the world for the better.  Creating better treatments, cost 
+effective care and better healthcare for all.
+
 
 ## Acknowledgment
 The author would like to thank Dr. Gregor von Laszewski and the TA's
