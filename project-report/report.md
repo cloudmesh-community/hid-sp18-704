@@ -6,7 +6,7 @@
 |hid: hid-sp18-704
 |github: https://github.com/cloudmesh-community/hid-sp18-704/blob/master/project-report/report.md
  
- ## Abstract
+## Abstract
 
 The medical field has long been collecting data from various sources.
 Previous to the revolution in big data, the information collected had be
@@ -71,7 +71,7 @@ for the patient. This allows healthcare system as a whole to operate
 more efficiently but deliver the best result for the patient. Given the
 pathways below it is possible to create better patient care, and lower
 cost to the consumer as well as to the provider and healthcare system as
-a whole.
+a whole. [@Groves2013HealthcareRevolution]
 
 Right Living:
 
@@ -404,7 +404,7 @@ defined as, or it is not.  Though there are quiet a few definitions that seem
 to be hard to define.  Artificial intelligence falls under this category.  Since 
 the term was initially coined in 1955, defining its actual meaning has become 
 somewhat of a difficult task.  The original idea behind artificial intelligence 
-was the ability to make a machine perform task as an intelligent human being would.  
+was the ability to make a machine perform task as an intelligent human being would. 
 However, this raises many questions of its own, such as how do we qualify intelligence 
 and what does intelligence even mean[@kaplan2016Artificial]? The definition of 
 artificial intelligence is still being debated and which complicates its meaning 
@@ -457,11 +457,11 @@ artificial/machine learning field.  It is the use of taking structured
 or unstructured text data and creating meaning out of it. It is used 
 in a variety of ways.  From being able to tell if a vast number of 
 tweets are negative over a certain topic by analyzing the value of words 
-used. In the medical field that is just one of the ways it can be used.  
+used. In the medical field that is just one of the ways it can be used. 
 However, the uses of natural language processing in healthcare could 
 indeed revolutionize more than any other technology available.  It sits 
 at the intersections of the healthcare industry and stand in a location to 
-make considerable changes that will save lives, save time and save money.  
+make considerable changes that will save lives, save time and save money. 
 The two areas where natural language processing stands to make the most 
 impact is with electronic health records and in the area of clinical 
 decision support. Though there are other areas that one could focus, these 
@@ -549,6 +549,7 @@ of is product until is has proven that is accurate in its translations and its
 understanding of meanings of words.
 
 ### Clinical Decision Support
+
 Clinical decision support is a system to help doctors make the right decisions.  
 In most professions making a wrong decision has ramifications, but at the end 
 of the day it will most likely not result in someone’s death.  This is not the 
@@ -578,6 +579,7 @@ decision support can stop mistakes from happening, and the ability to save
 lives, and protecting doctors.
 
 #### IBM Watson
+
 The best example of clinical decision support is IMB’s Watson.   Back in 2011 
 Watson was quite the celebrity when it went on to the television show Jeopardy. 
 While on the show it was able to beat two of the previous competitors and showing 
@@ -593,10 +595,83 @@ data points into information, then convert the information into clinically meani
 information and then through that achieve expert level understanding.  In addition 
 to learning through experience, he is also able to take thousands of medical records 
 and analyze the data for trends.  These are found in the various fields of the 
-electronic medical records, including the notes doctors take. [@Castaneda2015CDS]
+electronic medical records, including the notes doctors take [@Castaneda2015CDS].
+
+IMB’s Watson is now finding itself as an ever-expanding supercomputing artificial 
+intelligence system in healthcare.  In a pilot program Watson found 8500 patients 
+at risk for developing congestive heart failure.  This was based off 21 million 
+records that were analyzed in six weeks.  As a first run the accuracy rating was 
+85% which is truly astounding.  Soon after Watson had moved on to oncology to help 
+with cancer patients.  The goal here was to identify the type of cancer and then 
+suggest appropriate action [@www-Bresnick2016NLP].
+
+While clinical decision support is a tool doctors could benefit from, there are 
+still issues for implementation.  As of right now there is no one clear solution 
+for an effective clinical decision support system at the moment.  When IBM Watsons 
+took to oncology to help with cancer research there was a large amount of investment 
+in his abilities to bring clinical decision support to the forefront to healthcare’s 
+big data revolution.  However, that looks to not be quite what happened.  Doctors 
+working with the technology, find it unable to do anything it had promised. 
+Oncologist found very little use for the technology due to its inaccuracies.  It was 
+said that it had often misdiagnosed patients and would recommend the wrong 
+treatment as well [@www-Peck2018WatsonFailure].  Though this is not ideal for 
+the advancement of clinical decision support systems, it is only a setback.  This 
+area of the medical field shows too much promise in helping doctors with checking their 
+diagnoses and treatments of patients.  It will continue to grow and flourish, it just 
+will take more time than anticipated. 
     
+## Privacy
+
+One of the biggest issues in big data is the security of personal data.  There have 
+been multiple incidents where data leaks have been found and effected millions of 
+people.  Sometimes companies don’t even know they are compromised until years 
+later.  A lot of sensitive data can be taken from these breaches and it is important 
+that it be safeguarded no matter the content.  However, in contrast to other data 
+healthcare data is by far one of the most important types to safe guard.  Heath is 
+often a sensitive subject for people, and certain aspects of it can be embracing, and it is 
+not something people want disclosed.  In addition, it has all around sensitive data that 
+should be kept private.  
+
+Before the advent of electronic medical records, everything was written out and kept in 
+files, and unless physically tampered with, medical data was relatively safe from 
+attackers.  Now with the digitization of all this information and which the speed it has 
+been done; it is important to take note of security protocol to protect data from unwanted 
+attacks.
+
+### Breach Prevention
+
+A data breach can happen at any time and from anywhere. The attack could be an employee, 
+or a patient, or just someone trying to hack into the system half way across the world, 
+to prevent these breaches hospitals and healthcare institutions need to implement the 
+best security policy’s possible.  One of the most important aspects is physical 
+security. This means locking computer screens, not allowing anyone to access an account 
+that is not theirs.  No unsecure network routers or extenders on secure networks, not 
+plugging foreign UBS device into the computer. Locked server room and any other restricted 
+areas.  The rest is good cyber security measures such appropriate permissions to data and 
+programs, firewalls and antivirus as well as encryption of data.  In addition, strong password 
+for all those who access the system.  That then can be coupled with two factor authentications 
+which is extremely important now.
+
+To add to the security layer, there is a need for appropriate auditing.  This is also 
+supposed to be a Health Insurance Portability and Accountability Act compliance and 
+should be followed.  These audits monitor the uses of systems by users authorized and not.  It 
+then accounts the occurrence with logs, content, dates and times of the event.  This allows to 
+show if the access could had been an error or was a malicious attack on the system in attempts 
+to collect valuable data.  It also allows for better review of the system security and allows 
+for patching of venerable points of entry if they are discovered. 
+
+It is important that the pricy of patients be protected and that the security surrounding the systems 
+of electronic health records be secure.  If the data of too many patients gets exploited it could 
+spell trouble for the advancements in bigdata within healthcare.  Patients could very well lose 
+confidence in the electronic heath records and ruin the trust between patients and the healthcare 
+industry.  It may resort to patients lying about problems they may be having or not going to the doctor 
+unless absolute emergency. It is hard to tell the repercussion if the event were to arise, but it is 
+fair to say that is could jeopardize the patients’ health, as well as the valuable data needed to 
+continue to expand technology in big data for the healthcare industry [@Jamshed2015Privacy]. 
+
 
 ## Conclusion
+
 In conclusion big data in healthcare has many different applications for its 
 inclusion.  It has the ability to not only help patients, be every stake hold 
 in the healthcare field.  At current the healthcare’s adoption of big data and 
