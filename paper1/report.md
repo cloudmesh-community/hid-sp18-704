@@ -28,6 +28,7 @@ use of many different sensors noted below[@www-NOAA2013SensorsAndSystems].
 
 * This tool measures the speed and direction of ocean currents using
   the principle of Doppler shift. Measuring currents is a fundamental
+<<<<<<< HEAD
   practice of physical oceanographers[@www-NOAA2013SensorsAndSystems].
 =======
   practice of physical oceanographers [????]. :o: ref missing
