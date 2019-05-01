@@ -9,13 +9,18 @@ paper:
   - author: Zachary Meier
     title: Big Data in Oceanography
     url: https://github.com/cloudmesh-community/hid-sp18-704/blob/master/paper1/report.md
+  - status: 100%
+
   - author: Zachary Meier
     title: Netflix use of Big Data Visualization
     url: https://github.com/cloudmesh-community/hid-sp18-704/blob/master/paper2/report.md
+  - status: 100%
+
 project:
   - author: Zachary Meier
     title: Big Data in Medical Sciences
     url: https://github.com/cloudmesh-community/hid-sp18-704/blob/master/project-report/report.md
+  - status: 100%
 
 
 
