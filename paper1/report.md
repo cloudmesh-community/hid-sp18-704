@@ -28,93 +28,54 @@ use of many different sensors noted below[@www-NOAA2013SensorsAndSystems].
 
 * This tool measures the speed and direction of ocean currents using
   the principle of Doppler shift. Measuring currents is a fundamental
-<<<<<<< HEAD
-  practice of physical oceanographers[@www-NOAA2013SensorsAndSystems].
-=======
-  practice of physical oceanographers [????]. :o: ref missing
->>>>>>> be2cffd... Update report.md
+  practice of physical oceanographers.
 
 **Technologies for Ocean Acoustic Monitoring:**
 
 * This technology listens to the ocean for all sounds, boats, sea
-<<<<<<< HEAD
-  animals, waves, siezmic activity[@www-NOAA2013SensorsAndSystems].
-=======
-  animals, waves, siezmic activity [????]. :o: ref missing
->>>>>>> be2cffd... Update report.md
+  animals, waves, siezmic activity.
 
 **The Bushmaster and the Chimneymaster:**
 
 * A collection net used to grab tube worms or living fauna near
   geothermal vents. These tools are typically attached to a
-<<<<<<< HEAD
-  submersible vessel[@www-NOAA2013SensorsAndSystems].
-=======
-  submersible vessel [????]. :o: ref missing
->>>>>>> be2cffd... Update report.md
+  submersible vessel.
 
 **Clod Cards:**
 
 * These plaster cards track the motion of water for benthic organisms.
   The organisms that inhabit the bottom of the ocean. allowing us to
-<<<<<<< HEAD
-  learn more about the harder to reach parts of the ocean[@www-NOAA2013SensorsAndSystems]. 
-=======
-  learn more about the harder to reach parts of the ocean [????]. :o: ref missing
->>>>>>> be2cffd... Update report.md
+  learn more about the harder to reach parts of the ocean. 
 
 **Drifters:**
 
 * Drifters, are essentially devices that flow with the current of the
-<<<<<<< HEAD
-  ocean. Allowing for them to be mapped and visualized[@www-NOAA2013SensorsAndSystems]. 
-=======
-  ocean. Allowing for them to be mapped and visualized [????]. :o: ref missing
->>>>>>> be2cffd... Update report.md
+  ocean. Allowing for them to be mapped and visualized. 
 
 **Geographic Information Systems:**
 
 * Essentially the creation of 3D modeling within an computer
-<<<<<<< HEAD
-  environment of the ocean[@www-NOAA2013SensorsAndSystems].
+  environment of the ocean.
 
 **Satellites:**
 
-* Can detect and observe the ocean characteristics[@www-NOAA2013SensorsAndSystems].
-=======
-  environment of the ocean [????]. :o: ref missing
-
-**Satellites:**
-
-* Can detect and observe the ocean characteristics [????]. :o: ref missing
->>>>>>> be2cffd... Update report.md
+* Can detect and observe the ocean characteristics from space.
 
 **Semipermeable Membrane Devices:**
 
 * Used to collect various microbes for analysis of bacteria
-<<<<<<< HEAD
-  environment[@www-NOAA2013SensorsAndSystems].
-=======
-  environment [????]. :o: ref missing
->>>>>>> be2cffd... Update report.md
+environment.
 
 **Sonar:**
 
 * Uses sound to detect area around a submersible, and well as figure
-<<<<<<< HEAD
-  out water depth[@www-NOAA2013SensorsAndSystems]. 
-=======
-  out water depth [????]. :o: ref missing
->>>>>>> be2cffd... Update report.md
+out water depth. 
 
 **Sonde and CTD:**
 
 * Collect data on a multitude of things, primarily temperature at
-<<<<<<< HEAD
-  different depths and conductivity of the water[@www-NOAA2013SensorsAndSystems]. 
-=======
-  different depths and conductivity of the water [????]. :o: ref missing
->>>>>>> be2cffd... Update report.md
+different depths and conductivity of the water. 
+
 
 These sensors and technologies are what help make the data we can use to
 analyze and help predict our oceans health and patterns. All of these
